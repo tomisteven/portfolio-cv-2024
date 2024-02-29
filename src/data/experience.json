@@ -1,0 +1,171 @@
+{
+  "experience": [
+    {
+      "id": 2,
+      "link": "https://calculadora-responsive.netlify.app/",
+      "company": "Calculadora",
+      "title": "Calculadora Web",
+      "dateFrom": "2021",
+      "dateTo": "",
+      "info": [
+        " Calculadora web para realizar operaciones matematicas basicas.",
+        "Vanilla JS"
+      ],
+      "stack": ["UI/UX", "Vanilla JS"],
+      "logowidth": 130,
+      "colourPrimary": "linear-gradient(to bottom, #40f9ff, #009196)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffff, #ffffff)"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/tomisteven/Cataloger-client",
+      "company": "HelpCine",
+      "title": "Help Cine",
+      "dateFrom": "2023",
+      "dateTo": "",
+      "info": [
+        "Landing Page hecha en Vanilla JS",
+        "Desarrollo de la plataforma y diseño de la interfaz.",
+        "Blog para estudiante de critica de cine"
+      ],
+      "stack": ["UI/UX", "React JS"],
+      "logowidth": 150,
+      "colourPrimary": "linear-gradient(to bottom, #ff405c, #ff0026)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffff, #ffffff)"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/tomisteven/Cataloger-client",
+      "company": "Catalogo",
+      "title": "Catalogo Web",
+      "dateFrom": "2023",
+      "dateTo": "",
+      "info": [
+        "Landing Page para la promocion de productos y servicios.",
+        "Desarrollo de la plataforma y diseño de la interfaz.",
+        "Carrito de compras con redireccionamiento a WhatsApp"
+      ],
+      "stack": ["UI/UX", "React JS"],
+      "logowidth": 150,
+      "colourPrimary": "linear-gradient(to bottom, #405cff, #001fd1)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffff, #ffddb0)"
+    },
+    {
+      "id": 2,
+      "link": "https://tomsteven.netlify.app/proyect/gestionate0103",
+      "company": "Gestionate",
+      "title": "Gestionate - StructLife",
+      "dateFrom": "2022",
+      "dateTo": "",
+      "info": [
+        "Sistema web para organizacion personal y laboral.",
+        "Registro de turnos, servicios, productos, tareas y eventos.",
+        "Desarrollo de la plataforma y diseño de la interfaz."
+      ],
+      "stack": ["UI/UX", "React JS", "Node JS", "MongoDB"],
+      "logowidth": 100,
+      "colourPrimary": "linear-gradient(to bottom, #00ff00, #004a00)",
+      "colourSecondary": "linear-gradient(to bottom, #00bf00, #002b00)"
+    },
+    {
+      "id": 2,
+      "link": "https://tomsteven.netlify.app/proyect/struclife0104",
+      "company": "StructLife",
+      "title": "StructLife Mobile",
+      "dateFrom": "2022",
+      "dateTo": "",
+      "info": [
+        "Sistema web para organizacion personal.",
+        "Registro de tareas, Compras, Notas, Estudios y Eventos.",
+        "Desarrollo de la plataforma y diseño de la interfaz.",
+        "Tecnologias: React Native, Node JS, MongoDB, Cloudinary, Netlify, Railway"
+      ],
+      "stack": ["UI/UX", "React Native", "Node JS", "MongoDB", "Expo"],
+      "logowidth": 100,
+      "colourPrimary": "linear-gradient(to bottom, #ff9100, #ffd59e)",
+      "colourSecondary": "linear-gradient(to bottom, #ffd7a3, #fab861)"
+    },
+    {
+      "id": 0,
+      "link": "https://github.com/tomisteven/Drcancio-v2",
+      "company": "EstudioJuridico",
+      "title": "Estudio Juridico Jorge Cancio & Asociados",
+      "dateFrom": "2023",
+      "dateTo": "Actualidad",
+      "info": [
+        "Desarrollo de la plataforma y diseño de la interfaz.",
+        "Posicionamiento SEO y Marketing Digital"
+      ],
+      "stack": ["Web Design", "React JS", "Netlify"],
+      "logoheight": 150,
+      "colourPrimary": "linear-gradient(to bottom, #e3db00, #ada800)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffcc, #ffff94)"
+    },
+    {
+      "id": 1,
+      "link": "https://github.com/tomisteven/Padel-Crown-Client",
+      "company": "PadelCrown",
+      "title": "PadelCrown",
+      "dateFrom": "2023",
+      "dateTo": "Actualidad",
+      "info": [
+        "Aplicacion web para la gestion de clientes y productos de un comercio",
+        "Desarrollo de la plataforma y diseño de la interfaz.",
+        "Mantenimiento y actualizacion constante de la plataforma"
+      ],
+      "stack": [
+        "Web Design",
+        "React JS",
+        "Node JS",
+        "MongoDB",
+        "Cloudinary",
+        "Netlify",
+        "Railway"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #1fdb35, #038c13)",
+      "colourSecondary": "linear-gradient(to bottom, #12ad0c, #001f04)"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/tomisteven/Client-Negotium-2023",
+      "company": "Negotium",
+      "title": "Negotium",
+      "dateFrom": "2021",
+      "dateTo": "2023",
+      "info": [
+        "Sistema web pensado para comerciantes donde pueden gestionar sus productos, ventas, turnos, clientes y calendario",
+        "Desarrollo de la plataforma y diseño de la interfaz.",
+        "Tecnologias: React JS, Node JS, MongoDB, Cloudinary, Netlify, Railway"
+      ],
+      "stack": [
+        "UI/UX",
+        "React JS",
+        "Node JS",
+        "MongoDB",
+        "Cloudinary",
+        "Netlify",
+        "Railway"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #9e7aff, #5e24ff)",
+      "colourSecondary": "linear-gradient(to bottom, #d4c4ff, #d4c4ff)"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/tomisteven/Cataloger-client-2024",
+      "company": "Cataloger",
+      "title": "Cataloger",
+      "dateFrom": "2023",
+      "dateTo": "Actualidad",
+      "info": [
+        "Sistema web que genera catalogos interactivos mediante usuarios y productos.",
+        "Desarrollo de la plataforma y diseño de la interfaz."
+      ],
+      "stack": ["UI/UX", "React JS", "Node JS", "MongoDB"],
+      "logowidth": 90,
+      "colourPrimary": "linear-gradient(to bottom, #ffddb0, #f7a231)",
+      "colourSecondary": "linear-gradient(to bottom, #ffddb0, #ffddb0)"
+    }
+  ]
+}
