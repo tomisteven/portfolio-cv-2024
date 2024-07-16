@@ -8,6 +8,8 @@ const Skills = () => {
   const skillsWrapper = useRef()
   const { width } = useContainerDimensions(skillsWrapper)
 
+  console.log('skills', skills);
+
   return (
     <Fade duration={1000}>
       <div style={{ position: 'relative', width: '100%', maxWidth: 600 }}>

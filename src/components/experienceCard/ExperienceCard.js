@@ -17,7 +17,7 @@ const ExperienceCard = ({ experience }) => {
               className="experience-bg"
               style={{ background: experience.colourPrimary }}
             ></div>
-            <h2>{company}</h2>
+
             <div className="image-wrapper">
               <div
                 className="experience-bg logo-bg"

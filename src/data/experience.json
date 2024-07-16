@@ -166,6 +166,57 @@
       "logowidth": 90,
       "colourPrimary": "linear-gradient(to bottom, #ffddb0, #f7a231)",
       "colourSecondary": "linear-gradient(to bottom, #ffddb0, #ffddb0)"
+    },
+    {
+      "id": 2,
+      "link": "https://wearedynastygroup.com/",
+      "company": "dynastygroup",
+      "title": "Dynasty Group",
+      "dateFrom": "2024",
+      "dateTo": "Actualidad",
+      "info": [
+        "Tienda web para la venta de productos de la marca",
+        "Diseño y desarrollo de la plataforma para envio de productos y gestion de pedidos"
+      ],
+      "stack": ["Wordpress", "Elementor", "WooCommerce"],
+      "logowidth": 90,
+      "colourPrimary": "linear-gradient(to bottom, #ffddb0, #001f04)",
+      "colourSecondary": "linear-gradient(to bottom, #ffff, #ffddb0)"
+    },
+    {
+      "id": 2,
+      "link": "https://estudiofarinabalbi.com/",
+      "company": "farina",
+      "title": "Estudio Juridico Balbi",
+      "dateFrom": "2024",
+      "dateTo": "Actualidad",
+      "info": [
+        "Landing Page de estudio Juridico",
+        "Diseño y desarrollo de la web",
+        "Posicionamiento SEO y Marketing Digital"
+      ],
+      "stack": ["React JS", "Netlify", "SEO" , "Marketing Digital" , "UI/UX", "Javascript"],
+      "logowidth": 90,
+      "colourPrimary": "linear-gradient(to bottom, #ffff, #755e51)",
+      "colourSecondary": "linear-gradient(to bottom, #2c323f, #755e51)"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/tomisteven/ymcars-servidor",
+      "company": "jym",
+      "title": "JYM Cars",
+      "dateFrom": "2024",
+      "dateTo": "Actualidad",
+      "info": [
+        "Diseño y desarrollo de la web",
+        "Administracion de clientes y servicios",
+        "Carga de facturas",
+        "Servicio PM2 Local"
+      ],
+      "stack": ["React JS","Javascript", "Node JS", "MongoDB", "PM2", "Cloudinary"],
+      "logowidth": 90,
+      "colourPrimary": "linear-gradient(to bottom, #000000, #f81d3e)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffff, #ffffff)"
     }
   ]
 }

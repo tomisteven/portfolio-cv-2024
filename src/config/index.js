@@ -1,10 +1,10 @@
 module.exports = {
   particles: {
     particles: {
-      number: { value: 150 },
+      number: { value: 30 },
       color: { value: ['#0be779', '#1a89e2', '#e31b1b', '#ffac40','#b0864f', "#ca38ff" , "#fff700"] },
       opacity: {
-        value: 0.9,
+        value: 0.5,
         random: true,
         anim: {
           enable: true,
@@ -26,7 +26,7 @@ module.exports = {
       },
       move: {
         enable: true,
-        speed: 0.5,
+        speed: 0.3,
         direction: 'none',
         random: true,
         straight: false,
